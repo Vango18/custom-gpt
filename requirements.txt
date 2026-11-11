@@ -1,6 +1,7 @@
 streamlit
 langchain-core>=1.7.6
 langchain-openai>=1.7.3
+langchain-google-genai>=4.4.3
 langchain-pinecone>=0.2.13
 langchain-community>=0.4.2
 langchain-text-splitters>=1.1.3
